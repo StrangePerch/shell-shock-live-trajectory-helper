@@ -2,7 +2,6 @@ import math
 import time
 import configparser
 import numpy as np
-import matplotlib.pyplot as plt
 from pynput import keyboard, mouse
 from screeninfo import get_monitors
 
